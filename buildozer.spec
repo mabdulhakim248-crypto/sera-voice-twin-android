@@ -6,9 +6,9 @@ package.domain = org.sera
 source.dir = .
 source.include_exts = py,png,jpg,kv,atlas,wav,mp3
 
-version = 1.0.0
+version = 1.1.0
 
-requirements = python3,kivy==2.3.0,numpy,plyer
+requirements = python3,kivy==2.3.0,numpy,plyer,android
 
 orientation = portrait
 
