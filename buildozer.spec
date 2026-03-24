@@ -5,7 +5,6 @@ package.domain = org.sera
 
 source.dir = .
 source.include_exts = py,png,jpg,kv,atlas,wav,mp3
-source.include_patterns = assets/*,images/*
 
 version = 1.0.0
 
